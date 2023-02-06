@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "kysely_sovellus",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2023-02-03T15:23:11.790756Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.1"
+}

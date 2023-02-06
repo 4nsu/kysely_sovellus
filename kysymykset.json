@@ -1,0 +1,35 @@
+{
+    "kysymykset": [
+        {
+            "teksti": "2 + 2 = ?",
+            "vaihtoehdot": [
+                {"teksti": "4", 
+                "oikein": true},
+                {"teksti": "3 - 1", 
+                "oikein": false},
+                {"teksti": "22", 
+                "oikein": false}
+            ]
+        },
+        {
+            "teksti": "Onnistuinko?",
+            "vaihtoehdot": [
+                {"teksti": "Kyllä", 
+                "oikein": true},
+                {"teksti": "Et", 
+                "oikein": false}
+            ]
+        },
+        {
+            "teksti": "Minä vuonna Siiri syntyi?",
+            "vaihtoehdot": [
+                {"teksti": "2000", 
+                "oikein": false},
+                {"teksti": "2004", 
+                "oikein": true},
+                {"teksti": "1999", 
+                "oikein": false}
+            ]
+        }
+    ]
+}
