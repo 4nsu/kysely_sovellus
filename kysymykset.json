@@ -21,13 +21,13 @@
             ]
         },
         {
-            "teksti": "Minä vuonna Siiri syntyi?",
+            "teksti": "Onko jännää?",
             "vaihtoehdot": [
-                {"teksti": "2000", 
+                {"teksti": "Ei", 
                 "oikein": false},
-                {"teksti": "2004", 
+                {"teksti": "Kyllä", 
                 "oikein": true},
-                {"teksti": "1999", 
+                {"teksti": "En tiedä", 
                 "oikein": false}
             ]
         }
